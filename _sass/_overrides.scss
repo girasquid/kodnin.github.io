@@ -1,0 +1,19 @@
+// spacing
+
+.page-content {
+  padding: $spacing-unit 0 0 0;
+}
+
+.site-footer {
+  padding: $spacing-unit 0 ($spacing-unit * 2) 0;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
+}
