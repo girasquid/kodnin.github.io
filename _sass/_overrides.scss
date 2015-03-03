@@ -1,3 +1,22 @@
+// typography
+
+a:visited, a:hover {
+  color: $brand-color;
+}
+
+h1.post-title {
+  line-height: 1.25;
+}
+
+article p {
+  line-height: 1.625;
+  text-align: justify;
+}
+
+pre, code {
+  background-color: #f7f7f7;
+}
+
 // spacing
 
 .page-content {
