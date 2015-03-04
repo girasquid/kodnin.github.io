@@ -4,7 +4,7 @@ title: Ruby
 permalink: /ruby/
 ---
 
-[Ruby](https://www.ruby-lang.org) is a dynamic, interpreted and object-oriented programming language. With its expressive syntax it enables simplicity and productivity. Ruby appeared as an [open-source project](https://github.com/ruby/ruby) in 1995, initiated by [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz).
+[Ruby](https://www.ruby-lang.org) is a dynamic, object-oriented, programming language. With an expressive syntax it enables simplicity and productivity. Ruby appeared as an [open-source](https://github.com/ruby/ruby) project in 1995, initiated by [Yukihiro Matsumoto](https://twitter.com/yukihiro_matz).
 
 {% highlight ruby %}
 class Person

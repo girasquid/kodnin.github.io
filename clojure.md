@@ -4,7 +4,7 @@ title: Clojure
 permalink: /clojure/
 ---
 
-[Clojure](http://clojure.org) is a dynamic, compiled and functional programming language. As a Lisp dialect with immutable data structures it enables multithreaded designs. Clojure appeared as an [open-source project](https://github.com/clojure/clojure) in 2007, initiated by [Rich Hickey](https://twitter.com/richhickey).
+[Clojure](http://clojure.org) is a dynamic, functional, programming language. As a Lisp dialect with immutable data structures it enables multithreaded designs. Clojure appeared as an [open-source](https://github.com/clojure/clojure) project in 2007, initiated by [Rich Hickey](https://twitter.com/richhickey).
 
 {% highlight clojure %}
 (defn fib-step [[a b]]
