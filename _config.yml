@@ -1,7 +1,7 @@
 # Site settings
 title: kodnin
 email: kodnin@gmail.com
-description: “Exploring Ruby and Clojure”
+description: “Exploring Ruby, Clojure and JavaScript”
 baseurl: ""
 url: "http://kodnin.github.io"
 twitter_username: kodnin
