@@ -45,7 +45,7 @@ end
 
 # Array#each
 
-A requirement for the relevant Enumerable methods to work is the presence of an `each` method in a class. Array comes with this method, but why not reinfore our understanding of blocks and the `yield` method? When passed a block the `each` method typically returns the object it was called on. Therefore we use the accumulator `acc` to check if it correctly iterates over all elements from the test object.
+A requirement for the relevant Enumerable methods to work is the presence of an `each` method in a class. Array comes with this method, but why not reinforce our understanding of blocks and the `yield` method? When passed a block the `each` method typically returns the object it was called on. Therefore we use the accumulator `acc` to check if it correctly iterates over all elements from the test object.
 
 {% highlight ruby %}
 describe Array do
